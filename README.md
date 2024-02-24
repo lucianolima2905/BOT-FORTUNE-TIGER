@@ -4,7 +4,7 @@ interessados favor chamar no WhatSapp 74 98105-9014 ou no telegram @sonycltda Si
 OBS: Código é em python...
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
 
-![01](https://user-images.githubusercontent.com/65465300/307517154-6e5e701c-1a02-49dc-ba5e-a3dabf62d165.png)
+![01](https://user-images.githubusercontent.com/65465300/307517544-ed8ae912-f2d2-4373-9f6f-0342634bb133.png)
 
 ![02](https://user-images.githubusercontent.com/65465300/237954526-95f46f92-3511-484a-8851-aefc1270507f.jpeg)
 
